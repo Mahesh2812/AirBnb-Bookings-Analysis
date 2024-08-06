@@ -44,5 +44,23 @@ By combining data manipulation and aggregation techniques in Pandas with computa
 This step-by-step analysis will be documented in a Jupyter Notebook, which will be uploaded to our GitHub repository. Each section will include detailed explanations and code snippets, ensuring that the analysis is reproducible and easy to follow.
 
 
-Graphs 1:
-![image](https://github.com/user-attachments/assets/3687fa46-0363-452b-90a2-1f4510dad279)
+Graphs-1 (Price vs Frequency)
+![image](https://github.com/user-attachments/assets/7237bad1-271f-4dc1-b6aa-0711543121ae)
+
+Graph-2 (Room type vs Price):
+![image](https://github.com/user-attachments/assets/3589f012-fc7e-492c-9d05-d2447e72a44f)
+
+Graph-3 (Neighbourhood vs Price):
+![image](https://github.com/user-attachments/assets/838bcc86-447f-4b5d-a0af-ebcc4b8a6fa2)
+
+Graph-4 (Price vs Number of reviews)
+![image](https://github.com/user-attachments/assets/167cdb11-0a72-4b28-ba8d-9f92f67ca5ed)
+
+Graph-5 (Price vs reviews by month)
+![image](https://github.com/user-attachments/assets/79652ffc-44a1-4650-8755-4ceaa9e6efc8)
+
+Graph-6 (Price year wise):
+![image](https://github.com/user-attachments/assets/326abe10-ea25-480e-bcb8-6b712ae1d6f9)
+
+Graph-7(Price vs Minimum nights):
+![image](https://github.com/user-attachments/assets/1dda6010-164c-438a-a9dc-fe5d2a09da6a)
