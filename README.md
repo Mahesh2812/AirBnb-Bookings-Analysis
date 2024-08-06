@@ -42,3 +42,7 @@ Conclusion:
 By combining data manipulation and aggregation techniques in Pandas with computationally efficient operations in NumPy, and utilizing the powerful visualization capabilities of Matplotlib and Seaborn, we can perform a comprehensive analysis of our dataset. This approach not only helps in uncovering valuable insights but also ensures that our analysis is both efficient and effective. The visualizations we create will provide a clear and intuitive understanding of the data, facilitating informed decision-making based on the revealed patterns and trends.
 
 This step-by-step analysis will be documented in a Jupyter Notebook, which will be uploaded to our GitHub repository. Each section will include detailed explanations and code snippets, ensuring that the analysis is reproducible and easy to follow.
+
+
+Graphs 1:
+![image](https://github.com/user-attachments/assets/3687fa46-0363-452b-90a2-1f4510dad279)
